@@ -150,5 +150,5 @@ trabajadores
 ### 6. Trabajo futuro y mejoras
 Para mejorar los resultados, habría que hacer un trabajo más intensivo en la
 selección de features relevantes. Se podríá intentar probar con tagging.
-Otra mejora sería hacer una reducción de dimensionalidad de la matriz con LSA.
+Otra mejora sería hacer una reducción de dimensionalidad de la matriz con LDA.
 
